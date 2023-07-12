@@ -5,7 +5,7 @@ old image link:
 "https://images.weserv.nl/?url=kazar4.com/pfp.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"
 -->
 
-<picture> <img align="right" src="https://kazar4.com/pfp2.png" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/kazar4/kazar4/blob/main/pfp2.png" width = 250px></picture>
 
 - :school: I am a `Senior` at Brown University, Planning for a 5th Year Masters
 - :student: I’m currently majoring in `Computer Science` and `Cognitive Neuroscience`.
