@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kazen Gallman</h1>
 
-<picture> <img align="right" src="https://images.weserv.nl/?url=kazar4.com/pfp.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width = 250px></picture>
+<!---
+old image link:
+"https://images.weserv.nl/?url=kazar4.com/pfp.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"
+-->
+
+<picture> <img align="right" src="https://kazar4.com/pfp2.png" width = 250px></picture>
 
 - :school: I am a `Senior` at Brown University, Planning for a 5th Year Masters
 - :student: I’m currently learning `Computer Science` and `Cognitive Neuroscience`.
