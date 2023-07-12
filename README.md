@@ -13,7 +13,7 @@ old image link:
 - 💡: Former `Meta` Data Science Intern
 - :robot: Highschool Robotics Coach/Mentor.
 - 🌱 I’m currently learning more about Embedded Systems with C++
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AAWTWuxRZFt-jP0spEJ578MChbCbMKO6/view?usp=sharing).
+- :thinking: Looking for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AAWTWuxRZFt-jP0spEJ578MChbCbMKO6/view?usp=sharing).
 - 📫 You can reach me at **kazen_gallman@brown.edu**
 <br>
 
