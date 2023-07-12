@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazen Gallman</h1>
 <h3 align="center">I'm a senior at Brown University studying Computer Science and Cognitive Neuroscience. Im passionate about Robotics, Web Dev, and Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
-
 - 🌱 I’m currently learning Embedded Systems with C++
 
 - 📫 How to reach me **kazen_gallman@brown.edu**
