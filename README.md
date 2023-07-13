@@ -7,9 +7,9 @@ old image link:
 
 <picture> <img align="right" src="https://github.com/kazar4/kazar4/blob/main/pfp2.png" width = 250px></picture>
 
-- :school: I am a `Senior` at Brown University, Planning for a 5th Year Masters
-- :student: I’m currently majoring in `Computer Science` and `Cognitive Neuroscience`.
-- 💻: Im passionate about `Robotics`, `Web Dev`, and `Data Science`.
+- :school: I'm a `Senior` at Brown University, Planning for a 5th Year Masters
+- :student: Currently majoring in `Computer Science` and `Cognitive Neuroscience`.
+- 💻: Passionate about `Robotics`, `Web Dev`, and `Data Science`.
 - 💡: Former `Meta` Data Science Intern
 - :robot: Highschool Robotics Coach/Mentor.
 - 🌱 I’m currently learning more about Embedded Systems with C++
