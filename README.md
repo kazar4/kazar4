@@ -8,12 +8,12 @@ old image link:
 <picture> <img align="right" src="https://github.com/kazar4/kazar4/blob/main/pfp2.png" width = 250px></picture>
 
 - :school: I'm a `Senior` at Brown University, Planning for a 5th Year Masters
-- :student: Currently majoring in `Computer Science` and `Cognitive Neuroscience`.
-- 💻 Passionate about `Robotics`, `Web Dev`, and `Data Science`.
+- :student: Currently majoring in `Computer Science` and `Cognitive Neuroscience`
+- 💻 Passionate about `Robotics`, `Web Dev`, and `Data Science`
 - 💡 Former `Meta` Data Science Intern
-- :robot: Highschool Robotics Coach/Mentor.
+- :robot: Highschool Robotics Coach/Mentor
 - 🌱 I’m currently learning more about Embedded Systems with C++
-- :thinking: Looking for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AAWTWuxRZFt-jP0spEJ578MChbCbMKO6/view?usp=sharing).
+- :thinking: Looking for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AAWTWuxRZFt-jP0spEJ578MChbCbMKO6/view?usp=sharing)
 - 📫 You can reach me at **kazen_gallman@brown.edu**
 <br>
 
